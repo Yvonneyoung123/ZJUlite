@@ -1,0 +1,7 @@
+<!--component/tabbar/tabbar.wxml-->
+<view class='wrap_bar'>
+  <view class='home'>
+    
+  </view>
+
+</view>

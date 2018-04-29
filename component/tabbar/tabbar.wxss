@@ -1,0 +1,14 @@
+/* component/tabbar/tabbar.wxss */
+.wrap_bar{
+  background-color: #FFFFFF;
+  width:650rpx;
+  height:130rpx;
+  position:fixed;
+  bottom:0rpx;
+  left:50rpx;
+  border-radius: 76rpx;
+}
+
+.home{
+  icon:url('../../asset/icon/home.png');
+}
