@@ -1,4 +1,18 @@
 <!--index.wxml-->
 <view class="container">
-<tabbar></tabbar>
+  <view class = 'backgroundcolor'></view>
+  <searchtag></searchtag>
+  <classified></classified>
+  <view class='mid-tip-msg'>
+    <p>
+      最新消息
+    </p>
+  </view>
+  <contentcard> </contentcard>
+  <contentcard> </contentcard>
+  <contentcard> </contentcard>
+  <contentcard> </contentcard>
+  <contentcard> </contentcard>
+
+  <tabbar></tabbar>
 </view>

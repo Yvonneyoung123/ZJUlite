@@ -4,6 +4,7 @@ const app = getApp()
 
 Page({
   data: {
+    tip_msg : "最近消息",
     motto: 'Hello World',
     userInfo: {},
     hasUserInfo: false,

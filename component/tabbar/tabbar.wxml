@@ -1,7 +1,15 @@
 <!--component/tabbar/tabbar.wxml-->
 <view class='wrap_bar'>
-  <view class='home'>
-    
+  <view id='home' class = 'bar-button'>
+    <image src = "/asset/icon/home.png"></image>
   </view>
-
+  <view id='talk' class = 'bar-button'>
+    <image src = "/asset/icon/talk.png"></image>
+  </view>
+  <view id='new-msg' class = 'bar-button'>
+    <image src = "/asset/icon/talk.png"></image>
+  </view>
+  <view id='user' class = 'bar-button'>
+    <image src = "/asset/icon/user-center.png"></image>
+  </view>
 </view>

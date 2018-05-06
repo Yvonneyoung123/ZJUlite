@@ -1,0 +1,34 @@
+/* component/classified/classified.wxss */
+.classification-style{
+    background-color: #FFFFFF;
+    height:290rpx;
+    display: flex;
+    border-radius: 20rpx;
+    margin-top:10rpx;
+    padding-top:20rpx;
+    padding-left:60rpx;
+    padding-right:60rpx;
+    flex-flow:wrap row;
+    justify-content:center;
+    box-shadow: 0rpx 0rpx 3rpx 2rpx rgba(6,0,1,0.09);
+}
+.class-item{
+    width:25%;
+    height:125rpx;
+    font-size:17rpx;
+    color:#888888;
+    display:flex;
+    justify-content:center;
+    flex-direction: column;
+    text-align: center;
+}
+.class-item span {
+  margin-top: 14rpx;
+  display:block;
+}
+.class-item image {
+    margin:0 auto;
+    display:block;
+    width:90rpx;
+    height:90rpx;
+}

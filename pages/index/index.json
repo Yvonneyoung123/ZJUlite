@@ -1,5 +1,8 @@
 {
   "usingComponents": {
-    "tabbar": "../../component/tabbar/tabbar"
+    "tabbar": "../../component/tabbar/tabbar",
+    "searchtag": "../../component/searchtag/searchtag",
+    "contentcard": "../../component/contentcard/contentcard",
+    "classified":"../../component/classified/classified"
   }
 }

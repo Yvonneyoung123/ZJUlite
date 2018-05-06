@@ -2,6 +2,9 @@
 App({
   onLaunch: function () {
     // 展示本地存储能力
+
+    var sysinfo = wx.getSystemInfoSync();
+    console.log(sysinfo);  
     var logs = wx.getStorageSync('logs') || []
     logs.unshift(Date.now())
     wx.setStorageSync('logs', logs)
