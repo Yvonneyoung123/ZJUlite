@@ -1,21 +1,21 @@
 /* component/classified/classified.wxss */
 .classification-style{
     background-color: #FFFFFF;
-    height:290rpx;
+    height:340rpx;
     display: flex;
-    border-radius: 20rpx;
-    margin-top:10rpx;
-    padding-top:20rpx;
-    padding-left:60rpx;
-    padding-right:60rpx;
+    border-radius: 13rpx;
+    margin-top:50rpx;
+    padding-top:30rpx;
+    padding-left:30rpx;
+    padding-right:30rpx; 
     flex-flow:wrap row;
     justify-content:center;
-    box-shadow: 0rpx 0rpx 3rpx 2rpx rgba(6,0,1,0.09);
+    box-shadow: 0rpx 0rpx 3rpx 2rpx rgba(6,225,1,0.09);
 }
 .class-item{
     width:25%;
     height:125rpx;
-    font-size:17rpx;
+    font-size:23rpx;
     color:#888888;
     display:flex;
     justify-content:center;

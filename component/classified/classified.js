@@ -4,14 +4,14 @@ Component({
    * 组件的属性列表
    */
   properties: {
-    selecttype: [0, 0, 0, 0, 0, 0, 0, 0]
+   
   },
 
   /**
    * 组件的初始数据
    */
   data: {
-
+    selecttype: [0, 0, 0, 0, 0, 0, 0, 0]
   },
 
   /**
